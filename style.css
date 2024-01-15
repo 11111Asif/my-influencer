@@ -179,6 +179,33 @@ background: #E02C6D;
 color: #fff;
 border: 0;
 }
+.influence{
+    margin-top: 80px;
+    text-align: center;
+    background-color: #0A0826;
+    padding: 50px;
+}
+.influence-title{
+    color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+}
+.copy{
+    color: #D9DBE1;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+}
+.all-right{
+    color: #D9DBE1;
+font-size: 14px;
+font-weight: 700;
+}
+.icon{
+    color: #fff;
+    gap: 30px;
+}
 
 
 
